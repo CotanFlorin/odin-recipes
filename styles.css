@@ -1,10 +1,10 @@
 body {
-    background-repeat: no-repeat;
-    background-image: url(./salad-gc38c78ac4_1920.gif)
+    background-color: gainsboro;
     
 }
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
